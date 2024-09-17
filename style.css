@@ -1,5 +1,5 @@
-:root{
-    --caixa-cor-frente: blue; 
+:root {
+    --caixa-cor-frente: blue;
     --caixa-cor-verso: red;
     --fundo: yellow;
     --preto: black;
@@ -7,11 +7,11 @@
     --cor-texto-destaque: orange;
 }
 
-body{
+body {
     background-color: var(--fundo);
 }
 
-footer{
+footer {
     position: fixed;
     bottom: 0;
     background-color: var(--preto);
