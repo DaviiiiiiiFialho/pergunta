@@ -1,0 +1,8 @@
+:root{
+    --caixa-cor-frente: blue; 
+    --caixa-cor-verso: red;
+    --fundo: yellow;
+    --preto: black;
+    --branco: white;
+    --cor-texto-destaque: orange;
+}
