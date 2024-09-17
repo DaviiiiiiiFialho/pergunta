@@ -6,3 +6,7 @@
     --branco: white;
     --cor-texto-destaque: orange;
 }
+
+body{
+    background-color: var(--fundo);
+}
