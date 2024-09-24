@@ -1,5 +1,5 @@
 :root {
-    --caixa-cor-frente: #ac735d;
+    --caixa-cor-frente: #000000;
     --caixa-cor-verso: #891fb3;
     --fundo: rgb(255, 255, 255);
     --preto: black;
@@ -36,5 +36,5 @@ footer {
 .cartao_conteudo{
     background-color: var(--caixa-cor-frente);
     text-align: center;
-    /*color:var(--branco); */
+    color:var(--branco);
 }
