@@ -59,3 +59,10 @@ footer {
 .cartao.active  .cartao_conteudo{
     transform: rotateY('180deg');
 }
+
+.cartao_conteudo_pergunta, .cartao_conteudo_resposta{
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+} 
