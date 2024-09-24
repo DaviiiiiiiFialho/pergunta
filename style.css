@@ -38,3 +38,10 @@ footer {
     text-align: center;
     color:var(--branco);
 }
+
+.cartao_conteudo h3{
+    border: 1px solid var(--cor-texto-destaque);
+    padding: 0.5rem;
+    position: absolute;
+    margin: 0.5rem;
+}
