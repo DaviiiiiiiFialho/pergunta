@@ -51,3 +51,11 @@ footer {
     padding: 2rem;
     padding-top: 4rem;
 }
+
+.cartao_conteudo_resposta{
+    color: var(--caixa-cor-verso);
+}
+
+.cartao.active  .cartao_conteudo{
+    transform: rotateY('180');
+}
