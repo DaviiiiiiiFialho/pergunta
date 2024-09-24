@@ -57,5 +57,5 @@ footer {
 }
 
 .cartao.active  .cartao_conteudo{
-    transform: rotateY('180');
+    transform: rotateY('180deg');
 }
