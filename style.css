@@ -53,7 +53,9 @@ footer {
 }
 
 .cartao_conteudo_resposta{
-    color: var(--caixa-cor-verso);
+    background-color: var(--caixa-cor-verso);
+    transform: rotateY('180deg');
+    border: 1px solid var(--cor-texto-destaque);
 }
 
 .cartao.active  .cartao_conteudo{
