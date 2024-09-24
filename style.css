@@ -1,7 +1,7 @@
 :root {
     --caixa-cor-frente: #c741aa;
     --caixa-cor-verso: #891fb3;
-    --fundo: rgb(236, 30, 30);
+    --fundo: rgba(248, 153, 153, 0.589);
     --preto: black;
     --branco: rgb(73, 45, 175);
     --cor-texto-destaque: orange;
