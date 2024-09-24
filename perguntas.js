@@ -97,3 +97,8 @@ criaCartao(
     'Literatura',
     'Qual é o movimento literário associado ao poeta Vinicius de Moraes?',
     'Modernismo')
+
+    criaCartao(
+        'Conhecimentos Aleatorios',
+        'Qual o nome da professora Gi?',
+        'Gi')
